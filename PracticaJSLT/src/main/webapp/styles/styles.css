@@ -1,0 +1,41 @@
+/* 
+    Created on : 31 oct 2024, 20:36:06
+    Author     : Katt
+*/
+
+* {
+    background-color: #EC407A;
+    color: #FCE4EC;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+h1 {
+    font-size: 5rem;
+    text-align: center;
+    margin: 20px 0;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+.h2{
+    font-size: 3rem;
+    text-align: center;
+    margin: 20px 0;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+button {
+    font-size: 5rem;
+    background-color: #F8BBD0;
+    color: #FCE4EC;
+    text-align: center;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    border-color: white;
+}
+
+
