@@ -1,0 +1,4 @@
+com\aplicaciones\web\practicajslt\resources\JakartaEE11Resource.class
+com\aplicaciones\web\practicajslt\JakartaRestConfiguration.class
+beans\Usuario.class
+servlets\ServletUsuario.class
